@@ -28,7 +28,7 @@ Ejecutar el script con:
 
 python breast_cancer_nn.py
 
-##Dataset
+## Dataset
 
 Se utiliza el dataset Breast Cancer Wisconsin incluido en scikit-learn.
 
