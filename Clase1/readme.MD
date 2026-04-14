@@ -19,10 +19,10 @@ Este proyecto realiza un analisis completo del dataset Iris utilizando Python y 
 
 ## Requisitos
 
-Instalar las siguientes librerias:
+Instalar las librerias con:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn joblib
+pip install -r requirements.txt
 ```
 
 
