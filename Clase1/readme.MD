@@ -23,6 +23,7 @@ Instalar las siguientes librerias:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
+```
 
 
 ## Ejecucion
